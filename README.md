@@ -1,7 +1,7 @@
-## Football Diary App
+## MatchMemo App
 
 ### Overview
-**Football Diary** is a Swift-based iOS application developed using Xcode that allows football enthusiasts to document and preserve their football memories. Users can upload images, apply filters, and write descriptions for each moment, creating a personalized football diary.
+**MatchMemo** is a Swift-based iOS application developed using Xcode that allows football enthusiasts to document and preserve their football memories. Users can upload images, apply filters, and write descriptions for each moment, creating a personalized football diary.
 
 ### Features
 1. **Image Upload** - Users can upload images of their football experiences, such as matches, meet-ups, or events.
